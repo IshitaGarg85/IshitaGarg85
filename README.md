@@ -33,8 +33,8 @@
 
 
 </div>
-- 🔭 I’m currently working on [Campus Management System](https://github.com/jarviswoke/Campus_Flow)
 
+- 🔭 I’m currently working on [Campus Management System](https://github.com/jarviswoke/Campus_Flow)
 - 🌱 I’m currently learning **FastAPI, DSA**
 
 - 👯 I’m looking to collaborate on **Backend Development Projects & Open Source Contributions**
@@ -45,7 +45,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jJFMm4_1cG-DIFVfYsWl1jTQIcdPLthU/view?usp=drive_link](https://drive.google.com/file/d/1jJFMm4_1cG-DIFVfYsWl1jTQIcdPLthU/view?usp=drive_link)
 
-- ⚡ Fun fact **I debug first and panic later 😭**
+- ⚡ Fun fact **📟 Terminal > GUI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
