@@ -47,6 +47,16 @@
 
 - ⚡ Fun fact **📟 Terminal > GUI**
 
+
+## 🚀 Featured Collaborations
+
+| Project | My Role | Repository |
+|---------|---------|------------|
+| 🏫 Campus Flow | Backend Development | https://github.com/jarviswoke/Campus_Flow |
+| 📚 CourseStack | Backend Payment Developer | https://github.com/Code-Crafter-007/CourseStack |
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ishita-garg-76a759320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishita-garg-76a759320" height="30" width="40" /></a>
